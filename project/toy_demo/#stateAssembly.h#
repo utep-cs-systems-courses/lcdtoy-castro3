@@ -1,0 +1,7 @@
+#ifndef stateAssembly_included
+#define stateAssembly_included
+
+char song_play(int delay);
+
+
+#endif
